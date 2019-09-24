@@ -109,7 +109,7 @@ ga('create', 'UA-30027142-1', 'borneoekspress.com');
 
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav ml-auto text-center mr-lg-5">
-					<li class="nav-item active mr-lg-2 mb-lg-0 mb-2">
+					<li class="nav-item  mr-lg-2 mb-lg-0 mb-2">
 						<a class="nav-link" href="index.php">Beranda
 							<span class="sr-only">(current)</span>
 						</a>
@@ -120,19 +120,19 @@ ga('create', 'UA-30027142-1', 'borneoekspress.com');
 							Tentang Kami
 						</a>
 						<div class="dropdown-menu">
-							<a class="dropdown-item" href="404.html">Visi & Misi</a>
+							<a class="dropdown-item" href="visi-dan-misi.php">Visi & Misi</a>
 							<div class="dropdown-divider"></div>
-							<a class="dropdown-item" href="typo.html">Latar Belakang</a>
+							<a class="dropdown-item" href="latar-belakang.php">Latar Belakang</a>
 						</div>
 					</li>
 
 					
 					<li class="nav-item">
-						<a class="nav-link" href="contact.html">Produk & Layanan</a>
+						<a class="nav-link" href="produk.php">Produk & Layanan</a>
 					</li>
 
 					<li class="nav-item">
-						<a class="nav-link" href="contact.html">Hubungi Kami</a>
+						<a class="nav-link" href="kontak.php">Hubungi Kami</a>
 					</li>
 
 					

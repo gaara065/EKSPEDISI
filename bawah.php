@@ -20,16 +20,16 @@
 					<ul>
 						
 						<li class="mr-3">
-							<a href="about.html">Visi & Misi</a>
+							<a href="visi-dan-misi.php">Visi & Misi</a>
 						</li>
 						<li class="mr-3">
-							<a href="services.html">Latar Belakang</a>
+							<a href="latar-belakang.php">Latar Belakang</a>
 						</li>
 						<li class="mr-3">
-							<a href="gallery.html">Produk & Layanan</a>
+							<a href="produk.php">Produk & Layanan</a>
 						</li>
 						<li class="mr-3">
-							<a href="index.html" >kontak Kami</a>
+							<a href="kontak.php">kontak Kami</a>
 						</li>
 					</ul>
 				</div>
